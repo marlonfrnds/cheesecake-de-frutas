@@ -16,7 +16,7 @@ Conceitos aplicados
 ## Layout do projeto
 <table>
   <tr>
-    <td><img src="assets/cheesecake-desktop.png"></td>
+    <td><img src="assets/cheesecake-desktop.PNG"></td>
     <td><img src="assets/cheesecake-mobile.png"></td>
   </tr>   
 </table>
